@@ -1,8 +1,6 @@
 # reactContainerComponents
 
 <img src="https://cloud.githubusercontent.com/assets/19864300/19284781/ca356f6a-9053-11e6-925b-98c65935395d.png" />
-<img src="https://cloud.githubusercontent.com/assets/19864300/19284782/ca3934c4-9053-11e6-9e6a-8caa934c241c.png" />
-
 
 #separating presentational components from display components.
 
